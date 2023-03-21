@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Form-validation-auth-in-reactjs/static/css/main.275eca3b.css",
+    "main.js": "/Form-validation-auth-in-reactjs/static/js/main.56a687e7.js",
+    "index.html": "/Form-validation-auth-in-reactjs/index.html",
+    "main.275eca3b.css.map": "/Form-validation-auth-in-reactjs/static/css/main.275eca3b.css.map",
+    "main.56a687e7.js.map": "/Form-validation-auth-in-reactjs/static/js/main.56a687e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.275eca3b.css",
+    "static/js/main.56a687e7.js"
+  ]
+}
